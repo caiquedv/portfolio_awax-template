@@ -1,7 +1,7 @@
 <h1 align="center">Free Awax template</h1>
 
 <p align="center" dir="auto">
-  <img alt="GitHub" src="https://img.shields.io/github/license/caiquedv/portfolio_awax-template?style=plastic">
+  <img alt="GitHub" src="https://img.shields.io/github/license/caiquedv/portfolio_clock?style=plastic">
 </p>
 
 <p align="center"><img alt="Mockup" src="./mockup.png"></p>
